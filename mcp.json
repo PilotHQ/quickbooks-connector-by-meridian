@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "quickbooks-connector-by-meridian": {
+      "type": "streamable-http",
+      "url": "https://qbo-connector.meridian.pilot.com/mcp"
+    }
+  }
+}

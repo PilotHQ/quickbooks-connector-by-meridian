@@ -1,13 +1,13 @@
-# QuickBooks Connector by Meridian for Gemini CLI
+# QuickBooks Connector by Meridian
 
-Connect Gemini CLI to QuickBooks Online through the free, hosted
+Connect supported AI agents to QuickBooks Online through the free, hosted
 [QuickBooks Connector by Meridian](https://qbo-connector.meridian.pilot.com/).
 
 The connector can work with multiple QuickBooks companies and supports both
 read-only and read-and-write access. You choose the access level for each
 company in Meridian.
 
-## Install
+## Install in Gemini CLI
 
 ```sh
 gemini extensions install https://github.com/PilotHQ/quickbooks-connector-by-meridian
@@ -22,6 +22,16 @@ Restart Gemini CLI, then authorize the connector:
 The browser flow lets you sign in to Meridian, connect QuickBooks companies,
 and approve Gemini CLI's access. OAuth tokens are managed by Gemini CLI; this
 repository contains no credentials or connector implementation code.
+
+## Install in GitHub Copilot
+
+```sh
+copilot plugin install PilotHQ/quickbooks-connector-by-meridian
+```
+
+The repository uses the portable Agent Plugins 1.0 format, so the same MCP
+configuration is also supported by VS Code's Agent Plugins experience and other
+compatible clients.
 
 ## Useful requests
 
