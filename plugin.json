@@ -1,14 +1,14 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "quickbooks-connector-by-meridian",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Connect AI agents to QuickBooks Online through Meridian's secure, free MCP connector.",
   "author": {
     "name": "Pilot.com",
-    "email": "qbo-mcp@pilot.com",
+    "email": "qbo-connector@pilot.com",
     "url": "https://pilot.com/"
   },
-  "homepage": "https://qbo-connector.meridian.pilot.com/",
+  "homepage": "https://starter.meridian.pilot.com/help/qbo",
   "repository": "https://github.com/PilotHQ/quickbooks-connector-by-meridian",
   "license": "Apache-2.0",
   "keywords": [

@@ -1,7 +1,7 @@
-# QuickBooks Connector by Meridian
+# QBO Connector by Meridian
 
 Connect supported AI agents to QuickBooks Online through the free, hosted
-[QuickBooks Connector by Meridian](https://qbo-connector.meridian.pilot.com/).
+[QBO Connector by Meridian](https://starter.meridian.pilot.com/help/qbo).
 
 The connector can work with multiple QuickBooks companies and supports both
 read-only and read-and-write access. You choose the access level for each
@@ -42,9 +42,10 @@ compatible clients.
 
 ## Security and support
 
+- [Setup and troubleshooting](https://starter.meridian.pilot.com/help/qbo#limitations)
 - MCP endpoint: `https://qbo-connector.meridian.pilot.com/mcp`
-- [Privacy policy](https://qbo-connector.meridian.pilot.com/privacy)
-- [Terms of service](https://qbo-connector.meridian.pilot.com/terms)
-- Support: `qbo-mcp@pilot.com`
+- [Privacy policy](https://starter.meridian.pilot.com/privacy)
+- [Terms of service](https://starter.meridian.pilot.com/terms)
+- Support: `qbo-connector@pilot.com`
 
 The connector is operated by [Pilot](https://pilot.com/).

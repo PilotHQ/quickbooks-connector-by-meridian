@@ -1,4 +1,4 @@
-# QuickBooks Connector by Meridian
+# QBO Connector by Meridian
 
 Use the `quickbooks-connector-by-meridian` MCP server whenever the user asks to
 inspect, explain, report on, create, or update information in a connected
