@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "quickbooks-connector-by-meridian": {
+      "type": "http",
+      "url": "https://qbo-connector.meridian.pilot.com/mcp"
+    }
+  }
+}

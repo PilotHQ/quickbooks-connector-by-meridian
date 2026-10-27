@@ -1,6 +1,6 @@
 {
   "name": "quickbooks-connector-by-meridian",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Connect Gemini CLI to QuickBooks Online through Meridian's secure, free MCP connector.",
   "contextFileName": "GEMINI.md",
   "mcpServers": {
